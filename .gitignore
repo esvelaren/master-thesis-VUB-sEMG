@@ -52,3 +52,9 @@ model1/keras_metadata.pb
 model1/saved_model.pb
 model1/variables/variables.data-00000-of-00001
 model1/variables/variables.index
+X_test.pkl
+X_train.pkl
+X_val.pkl
+y_test.pkl
+y_train.pkl
+y_val.pkl
